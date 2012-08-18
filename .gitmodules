@@ -8,7 +8,7 @@
 	path = djangoappengine
 	url = https://github.com/django-nonrel/djangoappengine.git
 [submodule "django-dbindexer"]
-	path = django-dbindexer
+	path = dbindexer
 	url = https://github.com/django-nonrel/django-dbindexer.git
 [submodule "autoload"]
 	path = autoload
