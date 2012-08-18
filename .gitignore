@@ -3,9 +3,9 @@
 .gaedata
 
 # ignore dependencies
-autoload
-dbindexer
-django
-djangoappengine
-djangotoolbox
-django_mongodb_engine
+#autoload
+#dbindexer
+#django
+#djangoappengine
+#djangotoolbox
+#django_mongodb_engine
