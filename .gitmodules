@@ -10,3 +10,6 @@
 [submodule "django-dbindexer"]
 	path = django-dbindexer
 	url = https://github.com/django-nonrel/django-dbindexer.git
+[submodule "autoload"]
+	path = autoload
+	url = https://github.com/hflicka/django-autoload.git
